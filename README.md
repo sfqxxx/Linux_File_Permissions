@@ -1,4 +1,6 @@
 # Linux_File_Permissions
+<img width="750" height="227" alt="image" src="https://github.com/user-attachments/assets/09928a88-8537-4ee6-a0bf-195a712727e6" />
+
 This tutorial explains you the limux file permission in detail.
 # Essential chmod Commands Tutorial
 
